@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca42e01840ff4dc59b926b2d218580de, type: 3}
+  m_Name: SolanaWalletConfig
+  m_EditorClassIdentifier: 
+  RpcUrl: https://api.mainnet-beta.solana.com
+  WalletData:
+  - Id: Phantom
+    Icon: {fileID: 21300000, guid: 309bc3784e2464a5b833bc26af95cba0, type: 3}
+  - Id: Glow
+    Icon: {fileID: 21300000, guid: 382abbee74696470386017b49ea5caf8, type: 3}
+  - Id: Slope
+    Icon: {fileID: 21300000, guid: c67d58d06bc7a402ab09d1b800129f8a, type: 3}
+  - Id: Solflare
+    Icon: {fileID: 21300000, guid: 35e0e850406064117a17b86b1c23b88a, type: 3}
+  - Id: Torus
+    Icon: {fileID: 21300000, guid: e1c4a5e324782448b812d12b0dc750fb, type: 3}
+  - Id: BitKeep
+    Icon: {fileID: 21300000, guid: 707cdc933a9ee48b4b9405fbb0acd748, type: 3}
+  - Id: Ledger
+    Icon: {fileID: 21300000, guid: 9659e7eda5e92467d900f2906a7f26b5, type: 3}
+  - Id: Sollet
+    Icon: {fileID: 21300000, guid: 8bc964793042c483eb68431db7ea9554, type: 3}
+  - Id: Bitpie
+    Icon: {fileID: 21300000, guid: 098f1313a3a4749069cfd1efa67576d5, type: 3}
+  - Id: Blocto
+    Icon: {fileID: 21300000, guid: 340013ddadeaa4ad2b60420fa26de512, type: 3}
+  - Id: Clover
+    Icon: {fileID: 21300000, guid: 4550c472780d14613ad6472ad4045c2d, type: 3}
+  - Id: Coin98
+    Icon: {fileID: 21300000, guid: a13c6724ac2d2497cb70d8aa14a46df8, type: 3}
+  - Id: Coinhub
+    Icon: {fileID: 21300000, guid: 3761255504cae467ba9bd38a5fab9db3, type: 3}
+  - Id: MathWallet
+    Icon: {fileID: 21300000, guid: aa9f07e90988646248a3372b16c16f39, type: 3}
+  - Id: SafePal
+    Icon: {fileID: 21300000, guid: eb2e89cc13a954d6fb151eec694a45ba, type: 3}
+  - Id: Solong
+    Icon: {fileID: 21300000, guid: c39f6f2ff8086470c817769ac613bac4, type: 3}
+  - Id: TokenPocket
+    Icon: {fileID: 21300000, guid: 5a9aebb0e16614d19a0901e4a6e301e4, type: 3}
+  - Id: Nufi
+    Icon: {fileID: 21300000, guid: 5a9aebb0e16614d19a0901e4a6e301e4, type: 3}
+  EditorTestWallet: 2FF4pE2kvdg3nrf7aztpV4M78BcMuavgCwpL47n6GA5a
+  EditorNftMetadataUrl: https://arweave.net/HA0ioIC6pjGWOGF2CMiB7IMfB5Mr5dgbPS5VgXmdh3I
+  OwnerAddresses:
+  - BhBnEVHrFheqnhkNGNW3EE2bWRdcoaCD9BtXQJ2bUdtb
